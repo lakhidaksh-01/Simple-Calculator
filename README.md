@@ -13,5 +13,9 @@ A basic calculator using **HTML**, **CSS**, and **JavaScript** to perform arithm
 - **CSS**: Styling  
 - **JavaScript (DOM Manipulation)**: Logic 
 
+## 📷 Screenshot
+
+![Simple Calculator Screenshot](screenshot.png)  
+
 ## Contact
 For any queries or suggestions, feel free to contact me via [dakshlakhi01@gmail.com](mailto:dakshlakhi01@gmail.com).
